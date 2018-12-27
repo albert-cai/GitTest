@@ -4,5 +4,8 @@ export default {
   },
   testFunc2: () => {
     return null;
+  },
+  testFunc: () => {
+    return null;
   }
 } 
